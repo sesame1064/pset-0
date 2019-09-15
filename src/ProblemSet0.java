@@ -14,7 +14,7 @@
  * questions, and fix your mistakes. It's the only way to get good at programming.
  */
 
-public class PSet0 {
+public class ProblemSet0 {
 
     public static void main(String[] args) {
 
@@ -46,7 +46,7 @@ public class PSet0 {
          * Print a quoted message to the console.
          */
 
-        System.out.println("The answer's quite simple,\" the professor said. \"Just think outside the box!\"");
+        System.out.println("\"The answer's quite simple,\" the professor said. \"Just think outside the box!\"");
 
         /*
          * Exercise 4.
@@ -75,7 +75,7 @@ public class PSet0 {
          * Print a square of text to the console.
          */
 
-        System.out.println("H E L L O\nE\\A\nL\tP\nL\t\tC\nO A P C S\n");
+        System.out.println("H E L L O\nE\t\tA\nL\t\tP\nL\t\tC\nO A P C S\n");
 
         /*
          * Exercise 7.
@@ -83,7 +83,7 @@ public class PSet0 {
          * Print a countdown to the console.
          */
 
-        System.out.print("Three.\tTwo.One.\tGo!\n");
+        System.out.print("Three.\tTwo. \tOne.\tGo!\n");
 
         /*
          * Exercise 8.
