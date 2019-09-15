@@ -24,7 +24,7 @@ public class PSet0 {
          * Print a message to the console.
          */
 
-        System.out.println("Hello, world! Am I a programmer yet?");
+        System.out.println("Hello, world! Am I a programmer yet?\n");
 
         /*
          * Exercise 2.
@@ -34,7 +34,7 @@ public class PSet0 {
 
         System.out.println("   ##    ######  ######## ########");
         System.out.println("  #  #   #     # #        # ");
-        System.out.println(" #    #  #     # #       # ");
+        System.out.println(" #    #  #     # #        # ");
         System.out.println("######## ######  #        ########");
         System.out.println("#      # #       #               #");
         System.out.println("#      # #       #               #");
@@ -54,7 +54,7 @@ public class PSet0 {
          * Print a face to the console.
          */
 
-        System.out.println("   \\\\\\ ");
+        System.out.println("   \\\\\\\\ ");
         System.out.println("  +\"\"\"\"\"\"+ ");
         System.out.println("(|  0 0  |)");
         System.out.println(" |   ^   |");
@@ -83,7 +83,7 @@ public class PSet0 {
          * Print a countdown to the console.
          */
 
-        System.out.print("Three.\tTwo.One.\tGo!\t");
+        System.out.print("Three.\tTwo.One.\tGo!\n");
 
         /*
          * Exercise 8.
@@ -91,7 +91,7 @@ public class PSet0 {
          * Print three diamonds to the console.
          */
 
-        System.out.println("  /\\     /\\     /\\");
+        System.out.println("  /\\     /\\     /\\ ");
         System.out.println(" /  \\   /  \\   /  \\");
         System.out.println("/    \\ /    \\ /    \\");
         System.out.println("\\    / \\    / \\    /");
