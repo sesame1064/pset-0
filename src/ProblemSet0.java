@@ -24,7 +24,7 @@ Public class PSet0 {
          * Print a message to the console.
          */
 
-        systemout.println(Hello, world! Am I a programmer yet?\n"
+        system.out.println("Hello, world! Am I a programmer yet?"\n);
 
         /*
          * Exercise 2.
@@ -32,13 +32,13 @@ Public class PSet0 {
          * Print APCS in block letters to the console.
          */
 
-        System.out.println("   ##    ######  ######## ########")
-        System.out.println("  #  #   #     # #        #";
-        System.out.println(" #    #  #     # #       #");
-        Syste.out.print("######## ######  #        ########");
-        System.out.printf("#      # #       #               #");
+        System.out.println("   ##    ######  ######## ########");
+        System.out.println("  #  #   #     # #        # ");
+        System.out.println(" #    #  #     # #       # ");
+        System.out.println("######## ######  #        ########");
         System.out.println("#      # #       #               #");
-        Systemoutprintln("#      # #       ######## ########\n");
+        System.out.println("#      # #       #               #");
+        System.out.println("#      # #       ######## ########\n");
 
         /*
          * Exercise 3.
@@ -46,7 +46,7 @@ Public class PSet0 {
          * Print a quoted message to the console.
          */
 
-        System.out.println(""The answer's quite simple," the professor said. "Just think outside the box!"\n
+        System.out.println("The answer's quite simple,\" the professor said. \"Just think outside the box!");
 
         /*
          * Exercise 4.
@@ -54,11 +54,11 @@ Public class PSet0 {
          * Print a face to the console.
          */
 
-        Systemut.println("   \\\\\");
-        System.out.println("  +"""""+");
+        Systemut.println("   \\\\\ ");
+        System.out.println("  +\"\"\"\"\"\"+ ");
         System.outprintln("(|  0 0  |)");
-        System.out.println(" |   ^   |")
-        Systemout.println(" |  '-'  |);
+        System.out.println(" |   ^   |");
+        Systemout.println(" |  '-'  |");
         Systemout.println("  +-----+\n");
 
         /*
@@ -67,7 +67,7 @@ Public class PSet0 {
          * Print a to-do list to the console.
          */
 
-        System.outprintln("Here's today's to-do list:\n- Go food shopping\\t- Mow the lawn\n")
+        System.out.println("Here's today's to-do list:\n- Go food shopping\\t- Mow the lawn\n")
 
         /*
          * Exercise 6.
@@ -75,7 +75,7 @@ Public class PSet0 {
          * Print a square of text to the console.
          */
 
-        System.out.println("H E L L O\nE\\A\nL\tP\nL\t\tC\nO A P C S\n
+        System.out.println("H E L L O\nE\\A\nL\tP\nL\t\tC\nO A P C S\n");
 
         /*
          * Exercise 7.
@@ -83,7 +83,7 @@ Public class PSet0 {
          * Print a countdown to the console.
          */
 
-        System.out.prin("Three.\tTwo.One.\tGo!\n");
+        System.out.print("Three.\tTwo.One.\tGo!\t");
 
         /*
          * Exercise 8.
@@ -91,12 +91,12 @@ Public class PSet0 {
          * Print three diamonds to the console.
          */
 
-        System.out.println("  /\     /\     /\");
-        System.out.println(" /  \   /  \   /  \");
-        System.out.println("/    \ /    \ /    \");
-        System.out.println("\    / \    / \    /");
-        System.out.println(" \  /   \  /   \  /");
-        System.out.println("  \/     \/     \/\n");
+        System.out.println("  /\\     /\\     /\\");
+        System.out.println(" /  \\   /  \\   /  \\");
+        System.out.println("/    \\ /    \\ /    \\");
+        System.out.println("\\    / \\    / \\    /");
+        System.out.println(" \\  /   \\  /   \\  /");
+        System.out.println("  \\/     \\/     \\/\n");
 
         /*
          * Exercise 9.
@@ -104,7 +104,7 @@ Public class PSet0 {
          * Print an encouraging message to the console.
          */
 
-        System.out.println("You're almost done with your first problem set...\n")
+        System.out.println("You're almost done with your first problem set...");
 
         /*
          * Exercise 10.
@@ -112,8 +112,8 @@ Public class PSet0 {
          * Print a plus sign to the console.
          */
 
-        System.out.println(\t+---+\n\t|\t|);
-        System.out.println(+---+\t+---+\n|\t\t\t|\n+---+\t+---+);
-        System.out.println(\t|\t|\t\n\t+---+\n);
+        System.out.println("\t+---+\n\t|\t|");
+        System.out.println("+---+\t+---+\n|\t\t\t|\n+---+\t+---+");
+        System.out.println("\t|\t|\t\n\t+---+\n");
     }
 }
