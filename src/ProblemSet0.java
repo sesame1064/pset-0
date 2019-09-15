@@ -14,9 +14,9 @@
  * questions, and fix your mistakes. It's the only way to get good at programming.
  */
 
-Public class PSet0 {
+public class PSet0 {
 
-    public void Main(String args) {
+    public static void main(String[] args) {
 
         /*
          * Exercise 1.
@@ -24,7 +24,7 @@ Public class PSet0 {
          * Print a message to the console.
          */
 
-        system.out.println("Hello, world! Am I a programmer yet?"\n);
+        System.out.println("Hello, world! Am I a programmer yet?");
 
         /*
          * Exercise 2.
@@ -54,12 +54,12 @@ Public class PSet0 {
          * Print a face to the console.
          */
 
-        Systemut.println("   \\\\\ ");
+        System.out.println("   \\\\\\ ");
         System.out.println("  +\"\"\"\"\"\"+ ");
-        System.outprintln("(|  0 0  |)");
+        System.out.println("(|  0 0  |)");
         System.out.println(" |   ^   |");
-        Systemout.println(" |  '-'  |");
-        Systemout.println("  +-----+\n");
+        System.out.println(" |  '-'  |");
+        System.out.println("  +-----+\n");
 
         /*
          * Exercise 5.
@@ -67,7 +67,7 @@ Public class PSet0 {
          * Print a to-do list to the console.
          */
 
-        System.out.println("Here's today's to-do list:\n- Go food shopping\\t- Mow the lawn\n")
+        System.out.println("Here's today's to-do list:\n- Go food shopping\\t- Mow the lawn\n");
 
         /*
          * Exercise 6.
