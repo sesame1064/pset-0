@@ -46,7 +46,7 @@ public class PSet0 {
          * Print a quoted message to the console.
          */
 
-        System.out.println("The answer's quite simple,\" the professor said. \"Just think outside the box!");
+        System.out.println("The answer's quite simple,\" the professor said. \"Just think outside the box!\"");
 
         /*
          * Exercise 4.
@@ -54,8 +54,8 @@ public class PSet0 {
          * Print a face to the console.
          */
 
-        System.out.println("   \\\\\\\\ ");
-        System.out.println("  +\"\"\"\"\"\"+ ");
+        System.out.println("   \\\\\\\\\\ ");
+        System.out.println("  +\"\"\"\"\"+ ");
         System.out.println("(|  0 0  |)");
         System.out.println(" |   ^   |");
         System.out.println(" |  '-'  |");
@@ -67,7 +67,7 @@ public class PSet0 {
          * Print a to-do list to the console.
          */
 
-        System.out.println("Here's today's to-do list:\n- Go food shopping\\t- Mow the lawn\n");
+        System.out.println("Here's today's to-do list:\n- Go food shopping \n- Mow the lawn\n");
 
         /*
          * Exercise 6.
